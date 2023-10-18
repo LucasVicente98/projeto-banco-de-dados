@@ -29,7 +29,7 @@ O sistema oferece operações básicas de criação, leitura, atualização e ex
 
 **Diagrama ER**
 
-![Tela Inicial](C:/Users/lucas/Desktop/projeto-banco-de-dados/imagens_projeto/DIAGRAMA_ER_PROJETO.jpeg)
+![Tela Inicial](imagens_projeto/DIAGRAMA_ER_PROJETO.jpeg)
 
 
 
@@ -217,35 +217,35 @@ Em conclusão, o Sistema de Gerenciamento de Armazéns Logísticos é uma ferram
 
 ### Tela Inicial
 
-![Tela Inicial](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\tela_inicial.png)
+![Tela Inicial](imagens_projeto\tela_inicial.png)
 
 ### Menu de Armazém
 
-![Menu de Armazém](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\menu_armazem.png)
+![Menu de Armazém](imagens_projeto\menu_armazem.png)
 
 ### Listagem de Armazéns
 
-![Listagem de Armazéns](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\listagem_armazem.png)
+![Listagem de Armazéns](imagens_projeto\listagem_armazem.png)
 
 ### Menu de Responsável
 
-![Menu de Responsável](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\menu_responsavel.png)
+![Menu de Responsável](imagens_projeto\menu_responsavel.png)
 
 ### Listagem de Responsáveis e Armazéns Associados
 
-![Listagem de Responsáveis e Armazéns Associados](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\listagem_responsavel_armazem.png)
+![Listagem de Responsáveis e Armazéns Associados](imagens_projeto\listagem_responsavel_armazem.png)
 
 ### Menu de Produto
 
-![Menu de Produto](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\menu_produto.png)
+![Menu de Produto](imagens_projeto\menu_produto.png)
 
 ### Listagem de Valor Total por Armazém
 
-![Listagem de Valor Total por Armazém](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\listage_valor_total_por_armazem.png)
+![Listagem de Valor Total por Armazém](imagens_projeto\listage_valor_total_por_armazem.png)
 
 ### Fim da Execução
 
-![Fim da Execução](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\fim_execucao.png)
+![Fim da Execução](imagens_projeto\fim_execucao.png)
 
 
 
