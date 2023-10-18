@@ -29,7 +29,7 @@ O sistema oferece operações básicas de criação, leitura, atualização e ex
 
 **Diagrama ER**
 
-![Tela Inicial](C:\Users\lucas\Desktop\projeto-banco-de-dados\DIAGRAMA_ER_PROJETO.jpeg)
+![Tela Inicial](C:/Users/lucas/Desktop/projeto-banco-de-dados/imagens_projeto/DIAGRAMA_ER_PROJETO.jpeg)
 
 
 
@@ -216,29 +216,38 @@ Em conclusão, o Sistema de Gerenciamento de Armazéns Logísticos é uma ferram
 ## Imagens de Execução do Sistema
 
 ### Tela Inicial
+
 ![Tela Inicial](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\tela_inicial.png)
 
 ### Menu de Armazém
+
 ![Menu de Armazém](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\menu_armazem.png)
 
 ### Listagem de Armazéns
+
 ![Listagem de Armazéns](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\listagem_armazem.png)
 
 ### Menu de Responsável
+
 ![Menu de Responsável](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\menu_responsavel.png)
 
 ### Listagem de Responsáveis e Armazéns Associados
+
 ![Listagem de Responsáveis e Armazéns Associados](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\listagem_responsavel_armazem.png)
 
 ### Menu de Produto
+
 ![Menu de Produto](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\menu_produto.png)
 
 ### Listagem de Valor Total por Armazém
+
 ![Listagem de Valor Total por Armazém](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\listage_valor_total_por_armazem.png)
 
 ### Fim da Execução
+
 ![Fim da Execução](C:\Users\lucas\Desktop\projeto-banco-de-dados\imagens_projeto\fim_execucao.png)
 
 
 
 **Acesse o meu perfil no** [Linkedin](https://www.linkedin.com/in/lucas-leite-vicente-136568207/).
+
