@@ -217,35 +217,35 @@ Em conclusão, o Sistema de Gerenciamento de Armazéns Logísticos é uma ferram
 
 ### Tela Inicial
 
-![Tela Inicial](imagens_projeto\tela_inicial.jpeg)
+![Tela Inicial](imagens_projeto/tela_inicial.jpeg)
 
 ### Menu de Armazém
 
-![Menu de Armazém](imagens_projeto\menu_armazem.jpeg)
+![Menu de Armazém](imagens_projeto/menu_armazem.jpeg)
 
 ### Listagem de Armazéns
 
-![Listagem de Armazéns](imagens_projeto\listagem_armazem.jpeg)
+![Listagem de Armazéns](imagens_projeto/listagem_armazem.jpeg)
 
 ### Menu de Responsável
 
-![Menu de Responsável](imagens_projeto\menu_responsavel.jpeg)
+![Menu de Responsável](imagens_projeto/menu_responsavel.jpeg)
 
 ### Listagem de Responsáveis e Armazéns Associados
 
-![Listagem de Responsáveis e Armazéns Associados](imagens_projeto\listagem_responsavel_armazem.jpeg)
+![Listagem de Responsáveis e Armazéns Associados](imagens_projeto/listagem_responsavel_armazem.jpeg)
 
 ### Menu de Produto
 
-![Menu de Produto](imagens_projeto\menu_produto.jpeg)
+![Menu de Produto](imagens_projeto/menu_produto.jpeg)
 
 ### Listagem de Valor Total por Armazém
 
-![Listagem de Valor Total por Armazém](imagens_projeto\listage_valor_total_por_armazem.jpeg)
+![Listagem de Valor Total por Armazém](imagens_projeto/listage_valor_total_por_armazem.jpeg)
 
 ### Fim da Execução
 
-![Fim da Execução](imagens_projeto\fim_execucao.jpeg)
+![Fim da Execução](imagens_projeto/fim_execucao.jpeg)
 
 
 
